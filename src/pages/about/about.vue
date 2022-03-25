@@ -35,10 +35,6 @@
                   I believe the challenging and rewarding learning experience has been constantly strengthening my hands-on skills. 
                   Right now I look forward to a new learning advanture on Web Application Development. Web design and 
                   development has always been attractive to me. Can't wait to explore more in this area.</p>
-      
-              <p>Before studying at BU, I received two M.A. degrees. I also taught language courses to college students a couple of years ago.
-                  I started programming way back in high school and have been passionate about it ever since. BU provides new opportunites 
-                  for those who would like to switch their career path and explore more areas. I'm one of them!</p>
             </section>
         </main>
 
