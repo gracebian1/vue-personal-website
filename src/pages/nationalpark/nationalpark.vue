@@ -12,7 +12,7 @@
                 <li><a href="hiking.html">Hiking</a> </li>
                 <li><a href="movies.html">Movies</a></li>
                 <li><a href="moviesearch.html">IMDB</a></li>
-                <li><a href="aboutme.html">About</a> </li>
+                <li><a href="about.html">About</a> </li>
                 <li><a href="skills.html">Skills</a> </li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
