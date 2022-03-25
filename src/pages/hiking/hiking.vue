@@ -29,9 +29,8 @@
             <h2>Favorite Hiking Videos</h2>
             <p>Besides natural science, I love hiking and exploring nature. Although I haven't been doing hiking recently, 
                 there are quite a lot youtubers who do hiking videos and I really enjoy watching them. They bring people to 
-                lots of fun places "on screen". Kraig is one of them. He does most of his hiking alone, and he traveled to lots of places nationwide 
-                as well as globally. </p>
-            <p>Here is one of my favorite videos. He traveled to Hornstrandir Iceland. Check out the magnificent natural scenery in this video, 
+                lots of fun places "on screen".</p>
+            <p>Here is one of my favorite videos, which is about Hornstrandir Iceland. Check out the magnificent natural scenery in this video, 
                 especially starting from 10:00! &#127800;&#127808;&#127809;</p>
         </section>
     </main>
