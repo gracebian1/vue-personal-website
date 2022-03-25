@@ -28,7 +28,7 @@
     <main class="main-iframe">
         <section> 
             <h2>Computer Science Courses I've Taken</h2>
-            <p>Feel free to check out some of the computer science related courses I've taken in different universities.
+            <p>Feel free to check out some of the computer science related courses I took in different universities.
                 Besides these, I'm also doing self-learning on Node.js, AWS, machine learning, etc.
             </p>
         
